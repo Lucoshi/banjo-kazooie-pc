@@ -11,6 +11,8 @@
 
 # Building
 
+This port is incomplete only compiles for N64.
+
 The following instructions should work on the following platforms:
 - Ubuntu 18.04 or higher (x86_64)
 - Docker only
