@@ -1,4 +1,4 @@
-# Banjo-Kazooie (100.0000%)
+# Banjo-Kazooie PC (0.0000%)
 
 <img src="./progress/progress_pc.svg">
 
