@@ -16,7 +16,7 @@
         <text x="75.0" y="14">Banjo-Kazooie PC</text>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="188.0" y="15" fill="#010101" fill-opacity=".3">0.0002%</text>
-        <text x="187.0" y="14">0.0002%</text>
+        <text x="188.0" y="15" fill="#010101" fill-opacity=".3">0.00002%</text>
+        <text x="187.0" y="14">0.00002%</text>
     </g>
 </svg>
