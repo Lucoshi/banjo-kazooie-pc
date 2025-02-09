@@ -11,7 +11,9 @@
 
 # Building
 
-This port is incomplete only compiles for N64.
+This port is incomplete only compiles for N64 so far.
+
+This is a side project and is NOT being worked on constantly.
 
 The following instructions should work on the following platforms:
 - Ubuntu 18.04 or higher (x86_64)
